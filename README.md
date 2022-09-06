@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Romyott
+- 👋 Hi, I’m @RominaOtt
 - 👀 I’m interested in bioinformatics and data science
 - 🌱 I’m currently learning Phyton and R
-- 💞️ I’m looking to collaborate on: I don´t have something in mind yet
 - 📫 You can write me to rominaott@☺gmail.com
 
 <!---
